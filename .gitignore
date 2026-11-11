@@ -1,0 +1,17 @@
+
+# Maven build output
+target/
+
+# TestNG and Extent Reports generated output
+test-output/
+
+# Log files
+*.log
+
+# Sensitive configuration
+.env
+secrets.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
