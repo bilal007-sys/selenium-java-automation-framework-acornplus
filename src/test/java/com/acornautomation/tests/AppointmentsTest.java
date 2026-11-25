@@ -40,7 +40,7 @@ public class AppointmentsTest extends BaseClass {
     public void verifyAndEnterDate_Service_Veterinarian() {
     	
     	reportStep("Enter appointment date");
-    	appointmentsPage.getDateField().sendKeys("11/11/2026");
+    	appointmentsPage.getDateField().sendKeys("11/25/2026");
     	
     	softAssert.assertAll();
     }
