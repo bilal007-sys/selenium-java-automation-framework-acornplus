@@ -64,6 +64,16 @@ AcornCRMAutomation/
 └── README.md
 ```
 
+### Extent Reports Screenshots
+
+![Dashboard](screenshots/ExtentReport_Dashboard_View.png)
+
+![Failed Test Case](screenshots/ExtentReport_Failed_Test_Case.png)
+
+![Groups View](screenshots/ExtentReport_Groups_View.png)
+
+![List View](screenshots/ExtentReport_List_View.png)
+
 ## Framework Features
 
 - Page Object Model (POM) implementation for better code organization and reusability.
