@@ -14,6 +14,11 @@ This is an actively evolving project, with continuous efforts to expand test cov
 
 This framework is developed to automate functional and UI testing of the Acorn CRM web application.
 
+## Automation Demo
+
+Watch the Selenium Java Automation Framework in action:
+[▶ Watch Selenium Automation Demo](https://drive.google.com/file/d/1eQFpQPEHM-VuvwYvLSoop93RwI6VhBUA/view?usp=sharing)
+
 ## Tech Stack
 
 - **Programming Language:** Java
